@@ -1,0 +1,47 @@
+{
+    "947f402a-920e-4fc9-899e-9e799bafe68a": {
+        "username": "Shubham Patel",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "contact_number": "9819535754",
+        "date_of_birth": "22-06-2001",
+        "email": "spatel@gmail.com",
+        "_id": "947f402a-920e-4fc9-899e-9e799bafe68a",
+        "created_scheme": [
+            "ab67e274-77fc-45cc-b053-57e992131edf"
+        ],
+        "created_post": [
+            "7d24d6ea-efd2-4e92-93b8-a039bce7775d",
+            "10248a61-7fa9-48d0-ad37-41b8856b8238"
+        ]
+    },
+    "86533c3a-5c4c-4466-8e55-66e2c8a27be3": {
+        "username": "Shivam Patel",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "contact_number": "9819535754",
+        "date_of_birth": "12-07-2002",
+        "email": "shivampatel@gmail.com",
+        "_id": "86533c3a-5c4c-4466-8e55-66e2c8a27be3",
+        "created_scheme": [
+            "b3b63197-d412-44f0-9281-623744ff5a9b",
+            "bca7098d-b7cf-457e-968b-39b43272b5fe",
+            "deb17cfd-efe8-4a70-8f12-0a84a8a5285c",
+            "46e2efa6-14c8-4969-8a09-7c074afc228c",
+            "3e824454-6c67-4f4a-8af0-05cf9ad2ab00",
+            "47728c56-be3a-46e5-a208-fd5938a0b9a3"
+        ],
+        "created_post": [
+            "2b374751-f6f7-42b5-b6d7-9f09f82a599f",
+            "b23f2c3e-c3f0-4b7b-ad95-feaa167b7585"
+        ]
+    },
+    "c191aeb2-1070-4302-b71a-93ac13d39464": {
+        "username": "Shivam Patel",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "contact_number": "9819535754",
+        "date_of_birth": "12-07-2002",
+        "email": "shivampatel123@gmail.com",
+        "_id": "c191aeb2-1070-4302-b71a-93ac13d39464",
+        "created_scheme": [],
+        "created_post": []
+    }
+}
